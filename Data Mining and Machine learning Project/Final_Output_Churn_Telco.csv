@@ -1,0 +1,46 @@
+,customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+0,1001-FVZPP,Male,0,Yes,Yes,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,29.85,29.85,True
+1,1002-EXLZK,Female,0,No,No,34,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),99.65,3424.25,False
+2,1003-ARXIT,Male,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.7,151.65,True
+3,1004-QJWTD,Male,0,No,No,45,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),104.8,5375.45,False
+4,1005-LHNZS,Female,1,No,No,2,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,53.85,108.15,True
+5,1006-ONETR,Male,0,Yes,No,8,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),82.15,723.55,False
+6,1007-RPJFF,Female,0,Yes,Yes,22,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.7,2334.05,True
+7,1008-TDTLA,Male,0,Yes,No,10,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),89.1,918.25,False
+8,1009-KDQOM,Male,0,No,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),105.35,2965.8,True
+9,1010-LPKSZ,Male,1,Yes,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),113.25,7099.75,False
+10,1011-XXLNS,Female,0,Yes,Yes,13,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,99.35,1381.2,False
+11,1012-UMZJL,Female,0,No,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),105.5,1705.65,False
+12,1013-MVJBN,Female,0,Yes,Yes,58,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),116.5,6806.5,False
+13,1014-MSLEU,Male,0,No,No,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),81.25,3897.85,False
+14,1015-SSXZB,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),87.55,6326.95,False
+15,1016-TGRYE,Female,0,Yes,Yes,10,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,89.1,918.25,True
+16,1017-VQRLG,Male,0,No,No,21,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),105.35,2255.35,True
+17,1018-KZSNJ,Female,1,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,55.2,55.2,True
+18,1019-KLBTR,Male,0,Yes,No,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110.1,1314.65,True
+19,1020-IJGGW,Male,0,Yes,Yes,9,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100.9,918.25,True
+20,1021-YXVAX,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),116.25,6518.4,False
+21,1022-DVHKO,Female,0,Yes,Yes,8,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100.55,859.9,True
+22,1023-LHCMD,Male,0,Yes,Yes,64,Yes,No phone service,No,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116.95,7517.7,False
+23,1024-VHJYA,Male,0,No,Yes,22,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),85.5,1802.75,False
+24,1025-MQXQI,Male,0,Yes,Yes,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110.5,1717.6,True
+25,1026-RLDFO,Male,0,Yes,No,55,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.75,4842.55,False
+26,1027-QUYNS,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),117.8,8684.8,False
+27,1028-TWQSJ,Female,0,Yes,Yes,3,No,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,89.85,252.4,True
+28,1029-ZUMQU,Male,0,Yes,Yes,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),117.6,7065.1,False
+29,1030-ETQTV,Male,0,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),117.3,7041.3,False
+30,1031-JTNVT,Male,0,Yes,No,34,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,98.45,3338.4,False
+31,1032-HADAA,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),117.75,6603.95,False
+32,1033-CHZAL,Male,0,No,No,23,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.9,2389.35,False
+33,1034-CBDRU,Female,0,Yes,Yes,35,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,116.6,4014.2,False
+34,1035-FOJED,Female,0,Yes,Yes,24,No,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,116.4,2787.75,False
+35,1036-QZPFD,Female,0,Yes,Yes,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),118.6,7951.3,False
+36,1037-ALTKP,Male,0,Yes,Yes,20,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),116.7,2267.6,False
+37,1038-HUBVQ,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),118.75,8477.3,False
+38,1039-WSXEW,Male,0,Yes,Yes,7,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.4,326.9,True
+39,1040-OKQYD,Female,0,Yes,Yes,30,No,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),116.5,3576.6,False
+40,1041-SWZOB,Female,0,Yes,Yes,5,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.4,246.9,True
+41,1042-UDMKG,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),118.6,7951.3,False
+42,1043-MJZLT,Male,0,Yes,No,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,98.15,3114.35,True
+43,1044-YXOOG,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),119.25,8671.05,False
+44,1045-TCVPP,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),119.6,8698.05,False
